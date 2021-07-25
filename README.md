@@ -1,4 +1,4 @@
-# Harnessing the PIL
+# Playing with PILlow
 Wrangling an image using the power of Python Image Library. 
 
 There is a Jupiter notebook (cSheetShowcase.ipynb) and two files it needs to run.
